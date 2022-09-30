@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T01:42:53.308Z" agent="5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1" version="20.3.7" etag="h_F1tC5uu0I_IRigC65_" type="github"><diagram id="UhGDl_21oV5CSChvL468">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-30T01:51:55.121Z" agent="5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1" etag="i__Mkd7cWZurDCkiXtpN" version="20.3.7" type="github">
+  <diagram id="UhGDl_21oV5CSChvL468" name="Page-1">
+    <mxGraphModel dx="374" dy="272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kXxvqHK-oJlFs3qOH3xT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kXxvqHK-oJlFs3qOH3xT-1" target="kXxvqHK-oJlFs3qOH3xT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kXxvqHK-oJlFs3qOH3xT-1" value="Started&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kXxvqHK-oJlFs3qOH3xT-2" value="รับเงิน" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="180" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
